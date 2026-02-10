@@ -3,113 +3,41 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title     = {Relativity: the Special and General Theory},
-  author    = {Einstein, Albert},
-  year      = {1920},
-  publisher = {Methuen & Co Ltd},
-  html      = {relativity.html}
+@article{LAI2025101337,
+  title = {Safety filter for robust disturbance rejection via online optimization},
+  journal = {European Journal of Control},
+  volume = {86},
+  pages = {101337},
+  year = {2025},
+  note = {Special Issue on the European Control Conference 2025},
+  issn = {0947-3580},
+  doi = {https://doi.org/10.1016/j.ejcon.2025.101337},
+  url = {https://www.sciencedirect.com/science/article/pii/S0947358025001669},
+  author = {Joyce Lai and Peter Seiler},
+  keywords = {Robust control, Optimization, Learning},
+  abstract = {Disturbance rejection in high-precision control applications can be significantly improved upon via online convex optimization (OCO). This includes classical techniques such as recursive least squares (RLS) and more recent, regret-based formulations. However, these methods can cause instabilities in the presence of model uncertainty. This paper introduces a safety filter for systems with OCO in the form of adaptive finite impulse response (FIR) filtering to ensure robust disturbance rejection. The safety filter enforces a robust stability constraint on the FIR coefficients while minimally altering the OCO command in the ∞-norm cost. Additionally, we show that the induced ℓ∞-norm allows for easy online implementation of the safety filter by directly limiting the OCO command. The constraint can be tuned to trade off robustness and performance. We provide a simple example to demonstrate the safety filter.}
 }
 
-@book{einstein1956investigations,
-  bibtex_show = {true},
-  title       = {Investigations on the Theory of the Brownian Movement},
-  author      = {Einstein, Albert},
-  year        = {1956},
-  publisher   = {Courier Corporation},
-  preview     = {brownian-motion.gif}
-}
+@INPROCEEDINGS{10886354,
+  author={Lai, Joyce and Seiler, Peter},
+  booktitle={2024 IEEE 63rd Conference on Decision and Control (CDC)}, 
+  title={Robust Online Convex Optimization for Disturbance Rejection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={8876-8883},
+  keywords={Linear systems;Sufficient conditions;Uncertainty;Accuracy;Robust stability;Numerical simulation;Stability analysis;Convex functions;Numerical models;Numerical stability},
+  doi={10.1109/CDC56724.2024.10886354}}
+  abstract={Online convex optimization (OCO) is a powerful tool for learning sequential data, making it ideal for high precision control applications where the disturbances are arbitrary and unknown in advance. However, the ability of OCObased controllers to accurately learn the disturbance while maintaining closed-loop stability relies on having an accurate model of the plant. This paper studies the performance of OCObased controllers for linear time-invariant (LTI) systems subject to disturbance and model uncertainty. The model uncertainty can cause the closed-loop to become unstable. We provide a sufficient condition for robust stability based on the small gain theorem. This condition is easily incorporated as an on-line constraint in the OCO controller. Finally, we verify via numerical simulations that imposing the robust stability condition on the OCO controller ensures closed-loop stability.}
 
-@article{einstein1950meaning,
-  abbr        = {AJP},
-  bibtex_show = {true},
-  title       = {The meaning of relativity},
-  author      = {Einstein, Albert and Taub, AH},
-  journal     = {American Journal of Physics},
-  volume      = {18},
-  number      = {6},
-  pages       = {403--404},
-  year        = {1950},
-  publisher   = {American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr              = {PhysRev},
-  title             = {Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author            = {Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract          = {In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal           = {Phys. Rev.},
-  location          = {New Jersey},
-  volume            = {47},
-  issue             = {10},
-  pages             = {777--780},
-  numpages          = {0},
-  year              = {1935},
-  month             = {May},
-  publisher         = aps,
-  doi               = {10.1103/PhysRev.47.777},
-  url               = {https://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html              = {https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf               = {example_pdf.pdf},
-  altmetric         = {248277},
-  dimensions        = {true},
-  google_scholar_id = {qyhmnyLat1gC},
-  video             = {https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info   = {. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation        = {* Example use of superscripts<br>† Albert Einstein},
-  selected          = {true},
-  inspirehep_id     = {3255}
-}
-
-@article{einstein1905molekularkinetischen,
-  title     = {{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author    = {Einstein, A.},
-  journal   = {Annalen der physik},
-  volume    = {322},
-  number    = {8},
-  pages     = {549--560},
-  year      = {1905},
-  publisher = {Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr    = {Ann. Phys.},
-  title   = {Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author  = {Einstein, A.},
-  journal = {Ann. Phys.},
-  volume  = {17},
-  pages   = {549--560},
-  year    = {1905}
-}
-
-@article{einstein1905electrodynamics,
-  title  = {On the electrodynamics of moving bodies},
-  author = {Einstein, A.},
-  year   = {1905}
-}
-
-@article{einstein1905photoelectriceffect,
-  bibtex_show = {true},
-  abbr        = {Ann. Phys.},
-  title       = {{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}},
-  author      = {Albert Einstein},
-  abstract    = {This is the abstract text.},
-  journal     = {Ann. Phys.},
-  volume      = {322},
-  number      = {6},
-  pages       = {132--148},
-  year        = {1905},
-  doi         = {10.1002/andp.19053220607},
-  award       = {Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name  = {Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show = {true},
-  title       = {Letters on wave mechanics},
-  author      = {Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year        = {1967},
-  publisher   = {Vision},
-  preview     = {wave-mechanics.gif},
-  abbr        = {Vision}
-}
+@INPROCEEDINGS{9639797,
+  author={Qian, Jingjing and Zhang, Qinming and Lai, Joyce C. and Wang, Yixuan and Lu, Meng},
+  booktitle={2021 IEEE Sensors}, 
+  title={Rapid MicroRNA Detection Using Paper-Based Isothermal Amplification}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Performance evaluation;Sensitivity;RNA;Point of care;Transportation;Glass;Seals;Paper-based sensor;MicroRNA analyzation;Exponential Amplification Reaction},
+  doi={10.1109/SENSORS47087.2021.9639797}}
+  abstract={Short non-coding RNAs, which are known as microRNAs (miRNAs), play a key role in fundamental cellular processes by post-transcription regulations. This paper reports a paper-based miRNA exponential amplification and detection system for rapid analysis of miRNAs. The paper-based sensor system consists of a silicone frame, glass microfiber pads for the storage of reaction reagents, a polyethersulfone flow channel for sample delivery, and two transparent and adhesive films to seal the glass microfiber pads inside reaction chambers. The results showed that the paper-based miRNA sensor can detect miRNA-223 with a concentration as low as 10 pM within one hour.}
