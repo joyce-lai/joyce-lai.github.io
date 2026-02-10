@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated with my BS in Electrical Engineering from Iowa State University.
+I graduated from Iowa State University! 🎓🌪️
