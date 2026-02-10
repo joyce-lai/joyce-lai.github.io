@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated from Iowa State University! 🎓🌪️
+Graduated with BS from Iowa State University
