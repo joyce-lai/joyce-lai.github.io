@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "news-i-graduated-from-iowa-state-university-️",
-          title: 'I graduated from Iowa State University! 🎓🌪️',
+            },},{id: "news-graduated-with-bs-from-iowa-state-university",
+          title: 'Graduated with BS from Iowa State University',
           description: "",
           section: "News",},{id: "news-started-phd-at-university-of-michigan",
           title: 'Started PhD at University of Michigan',
