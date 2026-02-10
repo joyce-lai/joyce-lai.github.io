@@ -1,7 +1,11 @@
-"ECC25":
+"Amazon Leo"
+  url: https://leo.amazon.com/
+  color: "#9367b5"
+
+"ECC 2025":
   url: https://ecc25.euca-ecc.org/
   color: "##679cb5"
 
-"CDC24":
+"CDC 2024":
   url: https://cdc2024.ieeecss.org/
   color: "#9fb567"
