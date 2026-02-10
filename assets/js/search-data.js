@@ -445,11 +445,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-graduated-from-iowa-state-university-️",
+            },},{id: "news-i-graduated-from-iowa-state-university-️",
           title: 'I graduated from Iowa State University! 🎓🌪️',
+          description: "",
+          section: "News",},{id: "news-started-phd-at-university-of-michigan",
+          title: 'Started PhD at University of Michigan',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
