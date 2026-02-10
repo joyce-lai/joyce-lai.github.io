@@ -9,7 +9,7 @@ profile:
   image: pfp.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Electrical Engineering & Computer Science</p>
+    <p>EECS Building</p>
     <p>1301 Beal Ave</p>
     <p>Ann Arbor, MI 48109</p>
 
