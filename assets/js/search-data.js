@@ -444,7 +444,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
+              window.location.href = "/news/announcement_10/";
             },},{id: "news-graduated-with-bs-from-iowa-state-university",
           title: 'Graduated with BS from Iowa State University',
           description: "",
