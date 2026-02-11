@@ -2,14 +2,14 @@
   url: https://leo.amazon.com/
   color: "#9367b5"
 
-"ECC 2025":
+"ECC":
   url: https://ecc25.euca-ecc.org/
   color: "#679cb5"
 
-"CDC 2024":
+"CDC":
   url: https://cdc2024.ieeecss.org/
   color: "#9fb567"
 
-"Sensors 2021":
+"Proc. IEEE Sens.":
   url: https://ieee-sensors.org/conferences/ieee-sensors-2021/
   color: "#30a18a"
