@@ -115,7 +115,7 @@ cv:
       - name: Languages
         level: 
         icon: fa-solid fa-hashtag
-        keywords: "MATLAB/Simulink, Python, C, LaTeX"
+        keywords: "MATLAB/Simulink, Python, C, $$\LaTeX$$"
       - name: Optimization
         icon: fa-solid fa-hashtag
         keywords: "CVX, MPCTools/Casadi"
