@@ -34,4 +34,4 @@ Selected papers can be found at the bottom of this page and a complete list can 
 
 Before Michigan, I did my undergraduate studies at Iowa State University where I received my BS in Electrical Engineering. [#rollclones](https://www.iastate.edu/) 🌪️
 
-(FYI, my website is a work in progress!)
+FYI, my website is a work in progress!
