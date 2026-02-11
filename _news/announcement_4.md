@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented at CDC 2024 in Milan, Italy 🇮🇹
+Presented at [CDC 2024](https://cdc2024.ieeecss.org/) in Milan, Italy 🇮🇹
