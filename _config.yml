@@ -280,7 +280,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Lai]
-  first_name: [Joyce, J.]
+  first_name: [Joyce, J., Joyce C., J. C.]
 
   style: apa
   locale: en
