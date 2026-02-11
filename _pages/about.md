@@ -31,6 +31,6 @@ PhD student working with [Professor Peter Seiler](https://seiler.engin.umich.edu
 
 Selected papers can be found at the bottom of this page and a complete list can be found in the [publications](/publications/) page.
 
-Before Michigan, I did my undergraduate studies at Iowa State University where I received my BS in Electrical Engineering. #[rollclones](https://www.iastate.edu/) 🌪️
+Before Michigan, I did my undergraduate studies at Iowa State University where I received my BS in Electrical Engineering. [#rollclones](https://www.iastate.edu/) 🌪️
 
 (FYI, my website is a work in progress!)
