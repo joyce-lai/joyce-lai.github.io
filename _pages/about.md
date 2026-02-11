@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://umich.edu/'>University of Michigan</a>. she/her
+subtitle: she/her # <a href='https://umich.edu/'>University of Michigan</a>. she/her
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
   
 ---
 
-PhD student working with [Professor Peter Seiler](https://seiler.engin.umich.edu/) at the University of Michigan. My research focuses on robust control, optimization, and online (real-time) learning for high-precision control applications.
+PhD student working with [Professor Peter Seiler](https://seiler.engin.umich.edu/) at the [University of Michigan](https://umich.edu/). My research focuses on robust control, optimization, and online (real-time) learning for high-precision control applications.
 
 Selected papers can be found at the bottom of this page and a complete list can be found in the [publications](/publications/) page.
 
