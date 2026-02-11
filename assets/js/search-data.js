@@ -391,11 +391,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_10/";
             },},{id: "news-graduated-with-bs-from-iowa-state-university",
           title: 'Graduated with BS from Iowa State University',
           description: "",
