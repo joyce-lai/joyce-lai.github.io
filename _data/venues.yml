@@ -3,7 +3,7 @@
   color: "#9367b5"
 
 "ECC":
-  # url: https://ecc25.euca-ecc.org/
+  url: https://ieeexplore.ieee.org/xpl/conhome/1803817/all-proceedings # https://ecc25.euca-ecc.org/
   color: "#679cb5"
 
 "EJC":
@@ -11,9 +11,9 @@
   color: "#679cb5"
 
 "CDC":
-  # url: https://cdc2024.ieeecss.org/
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000188/all-proceedings # https://cdc2024.ieeecss.org/
   color: "#9fb567"
 
 "Sensors":
-  # url: https://ieee-sensors.org/conferences/ieee-sensors-2021/
+  url: # https://ieee-sensors.org/conferences/ieee-sensors-2021/
   color: "#46aba9"
