@@ -1,9 +1,9 @@
 cv:
   name: Joyce Lai
-  label: PhD Candidate
+  label: Graduate Student Research Assistant
   email: joycelai@umich.edu
   location: Ann Arbor, MI
-  image: ../assets/img/pfp.png
+  image: ../assets/img/pfp.png # this does not show up for some reason
   summary: # A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
