@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started internship at Amazon Leo
+Started internship at [Amazon Leo](https://leo.amazon.com/)
