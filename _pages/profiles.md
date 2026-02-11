@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: profiles
 permalink: /people/
 title: people
@@ -18,4 +18,4 @@ profiles:
       <p>EECS Department,</p>
       <p>University of Michigan,</p>
       <p>Ann Arbor</p>
----
+--- -->
