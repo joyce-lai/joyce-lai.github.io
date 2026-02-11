@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://umich.edu/'>University of Michigan</a>. she/her
 
 profile:
   align: right
@@ -23,9 +23,10 @@ announcements:
   limit: 7 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+  
 ---
 
 PhD student working with [Professor Peter Seiler](https://seiler.engin.umich.edu/) at the University of Michigan. My research focuses on robust control, optimization, and online (real-time) learning for high-precision control applications.
