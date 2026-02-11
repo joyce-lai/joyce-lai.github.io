@@ -2,14 +2,18 @@
   url: https://leo.amazon.com/
   color: "#9367b5"
 
-"ECC 2025":
-  url: https://ecc25.euca-ecc.org/
+"ECC":
+  # url: https://ecc25.euca-ecc.org/
   color: "#679cb5"
 
-"CDC 2024":
-  url: https://cdc2024.ieeecss.org/
+"EJC":
+  # url: https://www.sciencedirect.com/journal/european-journal-of-control
+  color: "#679cb5"
+
+"CDC":
+  # url: https://cdc2024.ieeecss.org/
   color: "#9fb567"
 
-"Proc. IEEE Sens. 2021":
-  url: https://ieee-sensors.org/conferences/ieee-sensors-2021/
+"Sensors":
+  # url: https://ieee-sensors.org/conferences/ieee-sensors-2021/
   color: "#30a18a"
