@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented at ECC 2025 in Thessaloniki, Greece 🇬🇷
+Presented at [ECC 2025](https://ecc25.euca-ecc.org/) in Thessaloniki, Greece 🇬🇷
