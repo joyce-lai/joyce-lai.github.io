@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-20'
 papers:
   2dyMQaMAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -11,5 +11,5 @@ papers:
     year: '2024'
   2dyMQaMAAAAJ:qjMakFHDy7sC:
     citations: 0
-    title: Safety Filter for Robust Disturbance Rejection via Online Optimization
-    year: '2024'
+    title: Safety filter for robust disturbance rejection via online optimization
+    year: '2025'
