@@ -1,12 +1,12 @@
 ---
 
-layout: redirected
+layout: default
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
 # cv_pdf: /assets/pdf/Joyce_Lai___CV__Mar_2026_.pdf # you can also use external links here
-redirect_to: /assets/pdf/Joyce_Lai___CV__Mar_2026_.pdf
+redirect: /assets/pdf/Joyce_Lai___CV__Mar_2026_.pdf
 # cv_format: # options: rendercv, jsonresume
 # description: This page is under construction and has not been fully populated. 🚧
 # toc:
