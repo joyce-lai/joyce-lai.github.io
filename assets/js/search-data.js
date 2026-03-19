@@ -482,7 +482,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/jc-lai", "_blank");
+          window.open("https://www.linkedin.com/in/jclai-in", "_blank");
         },
       },{
         id: 'social-scholar',
